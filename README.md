@@ -1,2 +1,11 @@
-# M.D-atividade
-Atividade de matemática discreta
+# Matemática Discreta atividade
+
+"Na lista de interfaces da estrutura de coleções do JAVA destacam-se os conjuntos, listas, filas e mapas"
+
+1) **Conjunto** __(Set__ e __SortedSet)__
+> é uma coleção de elementos que modela a abstração matemática para conjuntos. Não mantém indexação e nem contagem dos elementos pertencentes. Cada elemento pertence ou não pertence ao conjunto.
+
+
+1. **List** e **ArrayList**
+> o List é uma interface e o ArrayList é a classe que implementa.
+
