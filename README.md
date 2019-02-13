@@ -9,5 +9,23 @@
 2. **List** e **ArrayList**
 > o List é uma interface e o ArrayList é a classe que implementa.
 
+___Criar lista___
+~~~java
+List<Professor> professores = new ArrayList<Professor>();
+~~~
+
+___Adiciona elemento___
+~~~java
+Professor professor = new Professor();
+professores.add(professor);
+~~~
+___Contém Elemento___
+~~~java
+professores.Contains(professor);
+~~~
+___Remove elemento___
+~~~java
+   professores.remove(1); 
+~~~
 ### Referências: 
 DEITEL, H.M. (2005) Java: Como Programar. São Paulo: Person Prentice Hall, 6ª edição. Capítulo 19: Coleções, páginas 673-714.
