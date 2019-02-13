@@ -1,4 +1,5 @@
-# Matemática Discreta atividade
+# Exercício 10 do Capítulo 1
+
 
 "Na lista de interfaces da estrutura de coleções do JAVA destacam-se os conjuntos, listas, filas e mapas"
 
@@ -27,5 +28,8 @@ ___Remove elemento___
 ~~~java
    professores.remove(1); 
 ~~~
+
+**Alunos**: ___Ewerton Santiago, Marcus Henrique, Wllynilson Carneiro___
+
 ### Referências: 
 DEITEL, H.M. (2005) Java: Como Programar. São Paulo: Person Prentice Hall, 6ª edição. Capítulo 19: Coleções, páginas 673-714.
